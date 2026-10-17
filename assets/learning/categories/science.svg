@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <title>علوم</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#f0f4f8"/><stop offset="1" stop-color="#fff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#456f92" stop-opacity=".09"/><stop offset="1" stop-color="#456f92" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="480" height="280" rx="24" fill="url(#background)"/>
+  <ellipse cx="240" cy="140" rx="145" ry="119" fill="url(#halo)"/>
+  <rect x="24" y="24" width="432" height="232" rx="17" fill="none" stroke="#456f92" stroke-opacity=".12"/>
+  <path d="M45 77V47H75M405 233H435V203" fill="none" stroke="#456f92" stroke-opacity=".28" stroke-width="2"/>
+  <ellipse cx="240" cy="221" rx="83" ry="6" fill="#456f92" opacity=".07"/>
+  <g color="#456f92" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M215 79H265M225 79V123L187 186Q179 203 199 203H281Q301 203 293 186L255 123V79" fill="#fff"/>
+<path d="M205 163H275L289 188Q294 198 281 198H199Q186 198 191 188Z" fill="#dce8f1" stroke="none"/>
+<path d="M258 144H270M267 157H279" opacity=".5"/>
+<circle cx="230" cy="179" r="5" fill="#fff" stroke="none"/><circle cx="254" cy="187" r="3" fill="#fff" stroke="none"/>
+<path d="M305 117Q300 85 331 82Q337 108 305 117ZM305 117L296 133" fill="#dde9e4"/>
+<circle cx="165" cy="113" r="13" opacity=".5"/><path d="M165 94V132M146 113H184" opacity=".25"/>
+  </g>
+</svg>

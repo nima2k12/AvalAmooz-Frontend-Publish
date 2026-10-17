@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <title>مدیریت کلاس</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#f7f4ed"/><stop offset="1" stop-color="#fff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#917343" stop-opacity=".09"/><stop offset="1" stop-color="#917343" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="480" height="280" rx="24" fill="url(#background)"/>
+  <ellipse cx="240" cy="140" rx="145" ry="119" fill="url(#halo)"/>
+  <rect x="24" y="24" width="432" height="232" rx="17" fill="none" stroke="#917343" stroke-opacity=".12"/>
+  <path d="M45 77V47H75M405 233H435V203" fill="none" stroke="#917343" stroke-opacity=".28" stroke-width="2"/>
+  <ellipse cx="240" cy="221" rx="83" ry="6" fill="#917343" opacity=".07"/>
+  <g color="#917343" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<rect x="153" y="79" width="174" height="112" rx="9" fill="#fff"/>
+<rect x="164" y="90" width="152" height="90" rx="3" fill="#eee9dd" stroke="none"/>
+<path d="M240 191V214M212 214H268M181 111H215M181 125H234M181 139H224" opacity=".55"/>
+<circle cx="278" cy="119" r="13" fill="#fff"/><path d="M255 161Q255 141 278 141Q301 141 301 161" fill="#fff"/>
+<path d="M171 191H197" stroke-width="5"/>
+  </g>
+</svg>

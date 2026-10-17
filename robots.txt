@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+sitemap: https://back.avalamooz.ir/sitemap.xml

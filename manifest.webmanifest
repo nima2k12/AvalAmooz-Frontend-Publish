@@ -1,0 +1,24 @@
+{
+  "name": "اول آموز",
+  "short_name": "اول آموز",
+  "theme_color": "#7150c9",
+  "background_color": "#fffefb",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "description": "Learning courses and educational products for primary school children, families and teachers.",
+  "icons": [
+    {
+      "src": "assets/learning/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/learning/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

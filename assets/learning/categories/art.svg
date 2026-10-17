@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <title>هنر</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#f8f1f3"/><stop offset="1" stop-color="#fff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#a26774" stop-opacity=".09"/><stop offset="1" stop-color="#a26774" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="480" height="280" rx="24" fill="url(#background)"/>
+  <ellipse cx="240" cy="140" rx="145" ry="119" fill="url(#halo)"/>
+  <rect x="24" y="24" width="432" height="232" rx="17" fill="none" stroke="#a26774" stroke-opacity=".12"/>
+  <path d="M45 77V47H75M405 233H435V203" fill="none" stroke="#a26774" stroke-opacity=".28" stroke-width="2"/>
+  <ellipse cx="240" cy="221" rx="83" ry="6" fill="#a26774" opacity=".07"/>
+  <g color="#a26774" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M243 81C193 75 156 107 160 151C164 194 201 212 233 201C248 196 243 177 257 175C272 173 282 189 300 176C336 150 304 89 243 81Z" fill="#fff"/>
+<circle cx="196" cy="123" r="10" fill="#c1a3be" stroke="none"/><circle cx="228" cy="105" r="10" fill="#d4b179" stroke="none"/><circle cx="267" cy="113" r="10" fill="#8caeaa" stroke="none"/><circle cx="188" cy="159" r="10" fill="#95aac2" stroke="none"/>
+<path d="M247 164L309 87Q315 81 320 86Q324 91 318 97L258 174Z" fill="#eee2dc"/>
+<path d="M247 164Q226 163 225 187Q244 190 258 174Z" fill="#a26774"/>
+  </g>
+</svg>

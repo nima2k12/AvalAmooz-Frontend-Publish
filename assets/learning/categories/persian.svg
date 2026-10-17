@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <title>فارسی</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#f3f0f6"/><stop offset="1" stop-color="#fff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#655487" stop-opacity=".09"/><stop offset="1" stop-color="#655487" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="480" height="280" rx="24" fill="url(#background)"/>
+  <ellipse cx="240" cy="140" rx="145" ry="119" fill="url(#halo)"/>
+  <rect x="24" y="24" width="432" height="232" rx="17" fill="none" stroke="#655487" stroke-opacity=".12"/>
+  <path d="M45 77V47H75M405 233H435V203" fill="none" stroke="#655487" stroke-opacity=".28" stroke-width="2"/>
+  <ellipse cx="240" cy="221" rx="83" ry="6" fill="#655487" opacity=".07"/>
+  <g color="#655487" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M161 198V96Q201 85 240 105Q279 85 319 96V198Q277 184 240 203Q203 184 161 198Z" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<path d="M240 106V202M177 122Q201 119 220 130M177 139Q201 136 220 147M177 156Q201 153 216 162" opacity=".3"/>
+<path d="M256 161L292 91L307 99L271 169L253 181Z" fill="#e0d7ec"/>
+<path d="M292 91L300 76L315 84L307 99M256 161L271 169M253 181L257 170"/>
+  </g>
+</svg>

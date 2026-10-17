@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <title>قرآن — اللّه</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#eef5f0"/><stop offset="1" stop-color="#fff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#497b60" stop-opacity=".09"/><stop offset="1" stop-color="#497b60" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="480" height="280" rx="24" fill="url(#background)"/>
+  <ellipse cx="240" cy="140" rx="145" ry="119" fill="url(#halo)"/>
+  <rect x="24" y="24" width="432" height="232" rx="17" fill="none" stroke="#497b60" stroke-opacity=".12"/>
+  <path d="M45 77V47H75M405 233H435V203" fill="none" stroke="#497b60" stroke-opacity=".28" stroke-width="2"/>
+  <ellipse cx="240" cy="221" rx="83" ry="6" fill="#497b60" opacity=".07"/>
+  <g stroke="#497b60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M157 194V92Q199 80 240 102Q281 80 323 92V194Q281 181 240 202Q199 181 157 194Z" fill="#e0ebe3"/>
+    <path d="M164 187V87Q203 77 240 97Q277 77 316 87V187Q277 177 240 197Q203 177 164 187Z" fill="#fff"/>
+    <path d="M240 98V111M240 171V197" opacity=".3"/>
+    <path d="M178 171Q201 169 221 178M259 178Q279 169 302 171" opacity=".25" stroke-width="2"/>
+    <path d="M182 157H201M279 157H298" opacity=".18" stroke-width="2"/>
+  </g>
+  <text x="240" y="155" text-anchor="middle" direction="rtl" lang="ar" font-family="'Traditional Arabic','Arabic Typesetting','Noto Naskh Arabic',Tahoma,serif" font-size="60" font-weight="bold" fill="#37664b">اللّه</text>
+</svg>

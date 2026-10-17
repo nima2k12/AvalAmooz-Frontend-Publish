@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280">
+  <title>ریاضی</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#eef5f3"/><stop offset="1" stop-color="#fff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#387b79" stop-opacity=".09"/><stop offset="1" stop-color="#387b79" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="480" height="280" rx="24" fill="url(#background)"/>
+  <ellipse cx="240" cy="140" rx="145" ry="119" fill="url(#halo)"/>
+  <rect x="24" y="24" width="432" height="232" rx="17" fill="none" stroke="#387b79" stroke-opacity=".12"/>
+  <path d="M45 77V47H75M405 233H435V203" fill="none" stroke="#387b79" stroke-opacity=".28" stroke-width="2"/>
+  <ellipse cx="240" cy="221" rx="83" ry="6" fill="#387b79" opacity=".07"/>
+  <g color="#387b79" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<rect x="155" y="78" width="83" height="126" rx="12" fill="#fff" stroke="currentColor" stroke-width="3"/>
+<rect x="170" y="94" width="53" height="26" rx="4" fill="#deeeea" stroke="none"/>
+<path d="M175 140H188M181.5 133.5V146.5M208 140H221M175 166H188M208 162H221M208 170H221M175 187H188"/>
+<path d="M266 198L302 111L338 198Z" fill="#dcece7"/>
+<circle cx="285" cy="91" r="18" fill="#fff"/>
+<path d="M282 184H323M295 164H314" opacity=".4"/>
+  </g>
+</svg>
