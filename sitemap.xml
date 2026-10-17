@@ -2,81 +2,159 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>http://localhost:4300/</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
+        <loc>https://avalamuz.ir/</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://localhost:4300/Course</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://localhost:4300/Article</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
+        <loc>https://avalamuz.ir/Categories</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
         <changefreq>daily</changefreq>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://localhost:4300/Course/NewCourses</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://localhost:4300/Course/TopViewedCourses</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://localhost:4300/Course/OffPricedCourses</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://localhost:4300/c/1</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
-        <changefreq>weekly</changefreq>
         <priority>0.90</priority>
     </url>
     <url>
-        <loc>http://localhost:4300/c/2</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.90</priority>
+        <loc>https://avalamuz.ir/Course</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.80</priority>
     </url>
     <url>
-        <loc>http://localhost:4300/a/1</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.90</priority>
+        <loc>https://avalamuz.ir/Article</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.80</priority>
     </url>
     <url>
-        <loc>http://localhost:4300/Home/Search</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
+        <loc>https://avalamuz.ir/AvalAmuzArm</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/alphabet</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/dictation</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/syllable-breaker</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/math-practice</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/clock-learning</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/shapes</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/class-timer</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/grade-calculator</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/random-picker</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzArm/memory-game</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/AvalAmuzRoad</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/Course/NewCourses</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/Course/TopViewedCourses</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/Course/OffPricedCourses</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/Questions</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/ProductQuestions</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/Home/Search</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.60</priority>
     </url>
     <url>
-        <loc>http://localhost:4300/Account</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
+        <loc>https://avalamuz.ir/About</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.50</priority>
     </url>
     <url>
-        <loc>http://localhost:4300/About</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
+        <loc>https://avalamuz.ir/CommonQuestions</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://avalamuz.ir/PrivacyPolicy</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.40</priority>
     </url>
     <url>
-        <loc>http://localhost:4300/PrivacyPolicy</loc>
-        <lastmod>2021-03-26T11:54:34+00:00</lastmod>
+        <loc>https://avalamuz.ir/PayRules</loc>
+        <lastmod>2026-10-17T17:15:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.30</priority>
+        <priority>0.40</priority>
     </url>
 </urlset>
