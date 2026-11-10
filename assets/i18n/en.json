@@ -1,4 +1,21 @@
 {
+  "questionAlerts": {
+    "title": "Question and comment alerts",
+    "count": "{{count}} unread alerts",
+    "close": "Close question alerts",
+    "courses": "Course questions",
+    "products": "Product questions",
+    "courseComments": "Course comments",
+    "productComments": "Product comments",
+    "markRead": "Mark as read",
+    "readFailed": "This alert could not be marked as read. Try again.",
+    "private": "Private",
+    "loading": "Loading alerts…",
+    "empty": "There are no unread alerts.",
+    "unavailable": "Alerts could not be loaded.",
+    "retry": "Try again",
+    "more": "Show more"
+  },
   "catalog.categoryCourses": "Courses",
   "catalog.categoryProducts": "Products",
   "nav.categories": "Course and product categories",

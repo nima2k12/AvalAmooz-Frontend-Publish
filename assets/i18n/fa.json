@@ -1,4 +1,21 @@
 {
+  "questionAlerts": {
+    "title": "اعلان سؤال‌ها و نظرها",
+    "count": "{{count}} اعلان دیده‌نشده",
+    "close": "بستن اعلان‌ها",
+    "courses": "سؤال‌های دوره",
+    "products": "سؤال‌های محصول",
+    "courseComments": "نظرهای دوره",
+    "productComments": "نظرهای محصول",
+    "markRead": "خواندم",
+    "readFailed": "ثبت مشاهده انجام نشد. دوباره تلاش کنید.",
+    "private": "خصوصی",
+    "loading": "در حال دریافت اعلان‌ها…",
+    "empty": "اعلان دیده‌نشده‌ای وجود ندارد.",
+    "unavailable": "دریافت اعلان‌ها انجام نشد.",
+    "retry": "تلاش دوباره",
+    "more": "نمایش بیشتر"
+  },
   "catalog.categoryCourses": "دوره‌ها",
   "catalog.categoryProducts": "محصولات",
   "nav.categories": "دسته‌بندی دوره‌ها و محصولات",
