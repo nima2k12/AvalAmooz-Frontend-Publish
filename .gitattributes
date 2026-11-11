@@ -1,0 +1,2 @@
+# Service worker manifests verify the exact bytes of the built files.
+* -text
