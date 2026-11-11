@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "releasedOn": "2026-11-11",
-  "changes": ["Update notifications and fresh navigation", "Preserve publish Git metadata"]
+  "changes": ["Check the published version independently of the service worker", "Load fresh HTML and keep the offline fallback"]
 }
