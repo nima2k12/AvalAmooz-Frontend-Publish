@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1794472258766,
+  "timestamp": 1794761514647,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -53,7 +53,7 @@
         "/2289.41164f9f4935747f.js",
         "/2349.6212e30bd2818596.js",
         "/2367.19bbfb0685054e59.js",
-        "/2384.eeb5cacbd37ef1ce.js",
+        "/2384.b7befa1f5e5efe23.js",
         "/2534.c1bcb3f5002fa04f.js",
         "/2560.1b35016d21edaf71.js",
         "/262.910416a3ffbc46ef.js",
@@ -293,12 +293,12 @@
         "/common.5f5497b2a8121d49.js",
         "/favicon.ico",
         "/index.html",
-        "/main.c6f4169a707fe6fb.js",
+        "/main.78a109ad8a68b296.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.a933e20999f14839.js",
         "/polyfills-dom.2a3c33d221db03fd.js",
         "/polyfills.2da582de7b2349a0.js",
-        "/runtime.5710430bdd430fcd.js",
+        "/runtime.209bd0fcde01caf6.js",
         "/styles.73f18d52a886b0b1.css"
       ],
       "patterns": []
@@ -621,7 +621,7 @@
     "/2289.41164f9f4935747f.js": "ca5a699d257e247dc594ca3e68dbb3c2624f2d53",
     "/2349.6212e30bd2818596.js": "a20133113b83f1669afe477c333576d80082094d",
     "/2367.19bbfb0685054e59.js": "eba8840aaefadc3af1286b7c6823ce5fcd9fa824",
-    "/2384.eeb5cacbd37ef1ce.js": "58b1c3b056dea91c438dfe72e78694693d27e513",
+    "/2384.b7befa1f5e5efe23.js": "2210cb678b3d109999913228662dfd1a10a712c8",
     "/2534.c1bcb3f5002fa04f.js": "0f7153d375a7c481b50e985d6057344c01f86563",
     "/2560.1b35016d21edaf71.js": "67d78a6a6d6cccd238d5526492546f4158f3a6ca",
     "/262.910416a3ffbc46ef.js": "e15992da9ced69be34d76fb3c69d76d8df91bc4f",
@@ -928,8 +928,8 @@
     "/assets/font/kuluche.ttf": "29006f22b618715dd578d72c34c1e80131f28ffb",
     "/assets/font/kuluche.woff": "46b17b757f4ae14f3bd2472723d2a165a6437301",
     "/assets/font/kuluche.woff2": "e0b9c35233c95d28a60eea95dc78556230c386b7",
-    "/assets/i18n/en.json": "971c3b37e2257568218e2f439f5657fca6389b07",
-    "/assets/i18n/fa.json": "9bd9932cccb2e96f4b8907d43b7cbae52368f966",
+    "/assets/i18n/en.json": "8ef9f57af758be05d153361bd7de47379a3446ac",
+    "/assets/i18n/fa.json": "299bc0efdf813467d59cc041f7dd6ee5cc99e665",
     "/assets/icon/apple-touch-icon-120x120-precomposed.png": "2da8a45e7204df5e81d876ef9d091cedbcb1bca1",
     "/assets/icon/apple-touch-icon-152x152-precomposed.png": "05358fd4549d65770ff598f98ab2565dcda8d8fb",
     "/assets/icon/apple-touch-icon-180x180-precomposed.png": "516ec8facf86e3c6718069caeb18dd1e9ff5cc0e",
@@ -1019,13 +1019,13 @@
     "/assets/shapes.svg": "638f87e27e6fc7ddfd6e6b262ea70d690f6c7011",
     "/common.5f5497b2a8121d49.js": "1070f822427920004330d10e224a742e17043ea9",
     "/favicon.ico": "3e1a3a18eebf82cf23e7d4a4a7adeebc01e816de",
-    "/index.html": "28d836687f11ba4f830c964b63121033a13268c1",
-    "/main.c6f4169a707fe6fb.js": "81166e3a15b74f570d80f242a7797b0b0f61ff46",
+    "/index.html": "67a1b2fc77c1672463ad6acd1720343005c1b7b1",
+    "/main.78a109ad8a68b296.js": "663ebd66cb8655aebb1b305a6c473bda071ae759",
     "/manifest.webmanifest": "8a06dbac168ff0048c7a9d83f2842acf2d561909",
     "/polyfills-core-js.a933e20999f14839.js": "8f84cca0081b1c814c853b829e49f3a735de479f",
     "/polyfills-dom.2a3c33d221db03fd.js": "b150938c636b3ac473fd5473836a769febe48057",
     "/polyfills.2da582de7b2349a0.js": "de95d74b3c5ad8d6b2a41aab441fa40304ed8d3d",
-    "/runtime.5710430bdd430fcd.js": "2a49f64f8c4b3d31963b06a46fac4570e1bf7f78",
+    "/runtime.209bd0fcde01caf6.js": "ecd7ed49ddf56ddef08b4a9b7d8d6e48a1847428",
     "/styles.73f18d52a886b0b1.css": "ae92d3e7bb2c89257b3bcfb89fafbaed06de4e1f"
   },
   "navigationUrls": [
@@ -1048,6 +1048,6 @@
   ],
   "navigationRequestStrategy": "freshness",
   "appData": {
-    "version": "1.1.5"
+    "version": "1.1.6"
   }
 }
