@@ -915,20 +915,6 @@ ${error.stack}`;
       }
     }
     async handleFetch(req, event) {
-      const isAppNavigation = req.mode === "navigate" &&
-        (this.adapter.normalizeUrl(req.url) === this.indexUrl || this.isNavigationRequest(req));
-      if (isAppNavigation) {
-        const abort = new AbortController();
-        const timer = setTimeout(() => abort.abort(), 4500);
-        try {
-          const response = await this.scope.fetch(req, { cache: "no-store", signal: abort.signal });
-          if (response.status < 500) return response;
-        } catch (_) {
-          // An offline client can still use its complete cached Angular version.
-        } finally {
-          clearTimeout(timer);
-        }
-      }
       const asset = await this.assetGroups.reduce(async (potentialResponse, group) => {
         const resp = await potentialResponse;
         if (resp !== null) {

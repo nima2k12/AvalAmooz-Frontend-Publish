@@ -178,6 +178,12 @@ SOFTWARE.
 @ngx-translate/core
 MIT
 
+@stencil/core/internal
+
+@stencil/core/internal/app-data
+
+@stencil/core/internal/client
+
 ang-music-player
 ISC
 
@@ -250,6 +256,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 ionic-loader
+
+ionicons/components
 
 mp4box
 BSD-3-Clause
